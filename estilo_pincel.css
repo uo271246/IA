@@ -1,0 +1,44 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: rgb(254,244,232);
+}
+#defaultCanvas0{
+    width: 200%;
+    height: 4000px;  
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style:solid;
+    border-color: black;
+    
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    text-align: center;
+    font-size: 100%;
+    align-items: center;
+    background-color: rgb(254,244,232);
+    margin-bottom: 10px;
+}
+
+#boton_comandos_p{
+    font-size: 20px;
+    color:rgb(149,8,70) ;
+    margin-left: 10px;
+    /*background-color: rgb(254,244,232);
+    border: 2px solid rgb(149,8,70);*/
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
